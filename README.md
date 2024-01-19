@@ -1,0 +1,2 @@
+Salut coucou Monsieur le professeur Rémi Cham , voici mon petit proto de jeu qui n'est pas un plateformer. L'idée est de faire un jeu a la rocket league, avec des mécas en plus qui ne sont pas encore présentes sur le proto (comme différents personnages avec des spells). J'ai pas réussi a coder un lock cam ni un coup de queue ni même un scoring. Le jeu se joue en ZQSD et si on tourne assez vite sur soi-même, on peut donner des coup de queue dans la balle. J'ai alourdi le poids des bones de la queue pour
+que le coup de queue soit plus puissant.
